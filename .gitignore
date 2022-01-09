@@ -1,0 +1,5 @@
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Ignore the package jovianrc package file
+.jovianrc
