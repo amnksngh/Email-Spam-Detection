@@ -1,1 +1,1 @@
-# Gmail-Spam-Detection
+# Email-Spam-Detection
